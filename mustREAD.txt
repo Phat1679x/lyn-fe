@@ -1,0 +1,4 @@
+after pull project:
++ npm install > install all package in modules
++ npm run build > create build folder
++ npm start > view project

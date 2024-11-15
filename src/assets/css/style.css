@@ -1,0 +1,11 @@
+.slider-container {
+  position: relative;
+}
+
+.slider-container .slick-arrow {
+  display: none;
+}
+
+.slider-container:hover .slick-arrow {
+  display: flex;
+}
